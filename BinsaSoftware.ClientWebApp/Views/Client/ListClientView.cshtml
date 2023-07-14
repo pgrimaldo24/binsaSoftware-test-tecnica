@@ -1,0 +1,263 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<style>
+    .topRow {
+        margin-top: 5px;
+    }
+
+    .WidthSpan {
+        width: 48%;
+    }
+
+    .dl-horizontal dt {
+        text-align: left;
+    }
+
+    .dl-horizontal dd {
+        word-wrap: break-word
+    }
+
+    .dl-horizontal {
+        margin-bottom: 0px;
+    }
+
+    .nav-tabs-custom > .nav-tabs > li.active {
+        border-top-color: #e4ddd8;
+    }
+
+    .my-custom-scrollbar {
+        position: relative;
+        max-height: 150px;
+        overflow: auto;
+    }
+
+    .table-wrapper-scroll-y {
+        display: block;
+    }
+
+    .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td.TableCell {
+        border: 2px solid #e4e2e2;
+    }
+
+    /*tbody {
+                overflow-y: scroll;
+                height: 200px;
+                position: absolute;
+            }*/
+
+    .tableFixHead {
+        overflow-y: auto;
+        max-height: 150px;
+    }
+
+        .tableFixHead table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        .tableFixHead th,
+        .tableFixHead td {
+            padding: 8px 16px;
+        }
+
+        .tableFixHead thead th {
+            position: sticky;
+            top: 0;
+            background: #eee;
+        }
+
+
+    .tableFixHeadFacturas {
+        overflow-y: auto;
+        max-height: 200px;
+    }
+
+        .tableFixHeadFacturas table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        .tableFixHeadFacturas th,
+        .tableFixHeadFacturas td {
+            padding: 8px 16px;
+        }
+
+        .tableFixHeadFacturas thead th {
+            position: sticky;
+            top: 0;
+            background: #eee;
+        }
+
+
+    .tableFixHeadCreditoDebito {
+        overflow-y: auto;
+        max-height: 200px;
+        overflow-x: auto;
+        max-width: 1500px;
+    }
+
+        .tableFixHeadCreditoDebito table {
+            border-collapse: collapse;
+            width: 1400px;
+        }
+
+        .tableFixHeadCreditoDebito th,
+        .tableFixHeadCreditoDebito td {
+            padding: 8px 16px;
+        }
+
+        .tableFixHeadCreditoDebito thead th {
+            position: sticky;
+            top: 0;
+            background: #eee;
+        }
+
+    .btn-google {
+        color: #ffffff;
+        background-color: #273034;
+        border-color: rgba(0, 0, 0, 0.2);
+    }
+
+        .btn-google:focus,
+        .btn-google.focus {
+            color: #ffffff;
+            background-color: #273034;
+            border-color: rgba(0, 0, 0, 0.2);
+        }
+
+        .btn-google:hover {
+            color: #ffffff;
+            background-color: #273034;
+            border-color: rgba(0, 0, 0, 0.2);
+        }
+
+        .btn-google:active,
+        .btn-google.active,
+        .open > .dropdown-toggle.btn-google {
+            color: #ffffff;
+            background-color: #273034;
+            border-color: rgba(0, 0, 0, 0.2);
+        }
+
+        .btn-google:active,
+        .btn-google.active,
+        .open > .dropdown-toggle.btn-google {
+            background-image: none;
+        }
+
+        .btn-google .badge {
+            color: #273034;
+            background-color: #ffffff;
+        }
+
+    .hidden {
+        display: none;
+    }
+
+    .colum_center {
+        text-align: center;
+    }
+
+</style>
+
+<section class="content" id="sec-container"> 
+    <div class="row topRow">
+        <div id="IdPanel" class="col-md-12 col-sm-12 col-xs-12" style="height: 48px;">
+            <div class="box box-gray-pro">
+                <div class="box-header with-borde" style="color: #ECF0F1; background-color: rgba(52,73,94,0.94)">
+                    <label class="control-label col-md-4 col-sm-3 col-xs-12">LISTA CLIENTES</label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row topRow">
+        <div class="col-md-12">
+            <div class="box box-orange-pro">
+                <div class="box-header with-border">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="x_panel">
+                                <div class="x_content">
+                                    <form class="form-horizontal form-label-left">
+                                       
+                                        <div class="form-row"> 
+                                            <div class="col-md-1 col-sm-1 col-xs-1">
+                                               <button id="newcustomer" type="button" style="color: #e9eff3;background-color: #3c8dbc" class="btn btn-default" onclick="createCustomer();"><i class="fa fa-plus"></i> Nuevo cliente</button>
+                                            </div> 
+
+                                             <div class="col-md-4 col-sm-4 col-xs-6">
+                                                <button id="newcustomer" type="button" style="color: #e9eff3;background-color: #3c8dbc" class="btn btn-default" onclick="createCustomerContact();"><i class="fa fa-plus"></i> Nuevo contacto de cliente</button>
+                                            </div>
+                                        </div>
+ 
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="box box-orange-pro">
+                <div class="box-body">
+                    <div id="tbl-report-customer" style="height: 400px;">
+                        <table id="dtCustomers" class="table table-bordered table-condensed table-hover" style="border: 2px;border-color: #a9a7a7;width: 100%">
+                            <thead style="font-size: 12px;background-color:#405467;color:#e1f0f1;">
+                            </thead>
+                            <tbody style="font-size: 13px;">
+                            </tbody>
+                        </table> 
+                    </div>
+                    <span class="control-label" style="display:none;" id="msgDataTable"><strong>No results found</strong></span>
+                </div>
+            </div>
+        </div>
+    </div>
+     
+    <div id="popup_detail_customer" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog modal-lg" style=" display:flex; margin-top:40px">
+            <div class="modal-content" style="width: 112%;">
+                <iframe id="frm_detail_customer" src="" width="100%" height="500px" style="border: 0px solid transparent !important; border-radius: 10px; width: 100%;">
+                </iframe>
+            </div>
+        </div>
+    </div> 
+
+     <div id="popup_new_customer" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog modal-lg" style=" display:flex; margin-top:40px">
+            <div class="modal-content" style="width: 112%;">
+                <iframe id="frm_new_customer" src="" width="100%" height="410px" style="border: 0px solid transparent !important; border-radius: 10px; width: 100%;">
+                </iframe>
+            </div>
+        </div>
+    </div>
+
+    <div id="popup_new_customer_contact" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog modal-lg" style=" display:flex; margin-top:40px">
+            <div class="modal-content" style="width: 112%;">
+                <iframe id="frm_new_customer_contact" src="" width="100%" height="510px" style="border: 0px solid transparent !important; border-radius: 10px; width: 100%;">
+                </iframe>
+            </div>
+        </div>
+    </div>
+
+    <div id="popup_delete_customer" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog modal-lg" style=" display:flex; margin-top:40px">
+        <div class="modal-content" style="width: 112%;">
+                <iframe id="frm_delete_customer_" src="" width="100%" height="200px" style="border: 0px solid transparent !important; border-radius: 10px; width: 100%;">
+                </iframe>
+            </div>
+        </div>
+    </div>
+
+</section> 

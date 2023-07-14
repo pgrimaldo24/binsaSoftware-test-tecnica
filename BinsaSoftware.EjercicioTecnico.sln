@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F502553A-C6CF-49E6-A2D0-861DD957CD3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. WebApplication", "01. WebApplication", "{E43B3162-F3CF-493F-82F6-2B307BA55FE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Application", "02. Application", "{EDEBA928-3825-4F92-9214-6784852A261E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. CrossCutting", "03. CrossCutting", "{2F0C306A-C227-49D4-A16D-AD3B385B6D69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Infraestructure", "04. Infraestructure", "{A810F0B8-92A3-4321-B35C-886743BF3DF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Domain", "05. Domain", "{3F52C0BB-2CD5-4F5A-BC27-1F06092A9BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinsaSoftware.ClientWebApp", "BinsaSoftware.ClientWebApp\BinsaSoftware.ClientWebApp.csproj", "{D8DCD344-8BCB-4AEA-9D3A-B11DEDA5DF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinsaSoftware.ClientWebApp.Application", "BinsaSoftware.ClientWebApp.Application\BinsaSoftware.ClientWebApp.Application.csproj", "{C2F69B8A-AB51-4CBD-9AE8-AE1AA577EC9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinsaSoftware.ClientWebApp.CrossCutting", "BinsaSoftware.ClientWebApp.CrossCutting\BinsaSoftware.ClientWebApp.CrossCutting.csproj", "{E7658B0D-F222-4F09-9776-175F1D5175B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinsaSoftware.ClientWebApp.Infraestructure", "BinsaSoftware.ClientWebApp.Infraestructure\BinsaSoftware.ClientWebApp.Infraestructure.csproj", "{FCF790FE-DE7C-4BD5-93A5-E1ADE3C69AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinsaSoftware.ClientWebApp.Domain", "BinsaSoftware.ClientWebApp.Domain\BinsaSoftware.ClientWebApp.Domain.csproj", "{F7557CA7-A1A9-4D6C-A43F-88EB2B45A6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinsaSoftware.ClientWebApp.Ioc", "BinsaSoftware.ClientWebApp.Ioc\BinsaSoftware.ClientWebApp.Ioc.csproj", "{EB7BFCB7-42D4-4FDF-904F-C1B70E5A5D48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8DCD344-8BCB-4AEA-9D3A-B11DEDA5DF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DCD344-8BCB-4AEA-9D3A-B11DEDA5DF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DCD344-8BCB-4AEA-9D3A-B11DEDA5DF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DCD344-8BCB-4AEA-9D3A-B11DEDA5DF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F69B8A-AB51-4CBD-9AE8-AE1AA577EC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F69B8A-AB51-4CBD-9AE8-AE1AA577EC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F69B8A-AB51-4CBD-9AE8-AE1AA577EC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F69B8A-AB51-4CBD-9AE8-AE1AA577EC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7658B0D-F222-4F09-9776-175F1D5175B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7658B0D-F222-4F09-9776-175F1D5175B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7658B0D-F222-4F09-9776-175F1D5175B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7658B0D-F222-4F09-9776-175F1D5175B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF790FE-DE7C-4BD5-93A5-E1ADE3C69AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF790FE-DE7C-4BD5-93A5-E1ADE3C69AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF790FE-DE7C-4BD5-93A5-E1ADE3C69AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF790FE-DE7C-4BD5-93A5-E1ADE3C69AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7557CA7-A1A9-4D6C-A43F-88EB2B45A6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7557CA7-A1A9-4D6C-A43F-88EB2B45A6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7557CA7-A1A9-4D6C-A43F-88EB2B45A6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7557CA7-A1A9-4D6C-A43F-88EB2B45A6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7BFCB7-42D4-4FDF-904F-C1B70E5A5D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7BFCB7-42D4-4FDF-904F-C1B70E5A5D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7BFCB7-42D4-4FDF-904F-C1B70E5A5D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7BFCB7-42D4-4FDF-904F-C1B70E5A5D48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E43B3162-F3CF-493F-82F6-2B307BA55FE3} = {F502553A-C6CF-49E6-A2D0-861DD957CD3D}
+		{EDEBA928-3825-4F92-9214-6784852A261E} = {F502553A-C6CF-49E6-A2D0-861DD957CD3D}
+		{2F0C306A-C227-49D4-A16D-AD3B385B6D69} = {F502553A-C6CF-49E6-A2D0-861DD957CD3D}
+		{A810F0B8-92A3-4321-B35C-886743BF3DF6} = {F502553A-C6CF-49E6-A2D0-861DD957CD3D}
+		{3F52C0BB-2CD5-4F5A-BC27-1F06092A9BFD} = {F502553A-C6CF-49E6-A2D0-861DD957CD3D}
+		{D8DCD344-8BCB-4AEA-9D3A-B11DEDA5DF00} = {E43B3162-F3CF-493F-82F6-2B307BA55FE3}
+		{C2F69B8A-AB51-4CBD-9AE8-AE1AA577EC9A} = {EDEBA928-3825-4F92-9214-6784852A261E}
+		{E7658B0D-F222-4F09-9776-175F1D5175B6} = {2F0C306A-C227-49D4-A16D-AD3B385B6D69}
+		{FCF790FE-DE7C-4BD5-93A5-E1ADE3C69AE7} = {A810F0B8-92A3-4321-B35C-886743BF3DF6}
+		{F7557CA7-A1A9-4D6C-A43F-88EB2B45A6EE} = {3F52C0BB-2CD5-4F5A-BC27-1F06092A9BFD}
+		{EB7BFCB7-42D4-4FDF-904F-C1B70E5A5D48} = {2F0C306A-C227-49D4-A16D-AD3B385B6D69}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A93477-457C-47A8-A4BE-2051CF9AA601}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\bin\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.deps.json
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\bin\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.dll
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\bin\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.pdb
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.AssemblyInfo.cs
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.dll
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\obj\Debug\net6.0\refint\BinsaSoftware.ClientWebApp.CrossCutting.dll
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.CrossCutting.pdb
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.CrossCutting\obj\Debug\net6.0\ref\BinsaSoftware.ClientWebApp.CrossCutting.dll

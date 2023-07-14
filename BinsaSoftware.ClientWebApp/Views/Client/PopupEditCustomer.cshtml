@@ -1,0 +1,125 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="shortcut icon" type="image/x-icon" href="~/favicon.ico">
+    <link href="~/lib/bootstrap-4.1.0/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap4material-1-4-2/css/fontastic.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap4material-1-4-2/css/style.default.css" rel="stylesheet" />
+    <link href="~/css/spin.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="~/lib/bootstrap-datepicker/bootstrap-datepicker.min.css">
+
+    <script src="~/lib/jquery-1.12.4/jquery-1.12.4.js"></script>
+    <script src="~/lib/bootstrap-4.1.0/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery.cookie/jquery.cookie.js"></script>
+    <script src="~/lib/bootstrap4material-1-4-2/js/front.js"></script>
+    <script src="~/lib/blockui/blockui.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/Client/Update/update-customer.js"></script>
+    <link href="~/lib/toastr/toastr.min.css" rel="stylesheet" />
+    <script src="~/lib/toastr/toastr.min.js"></script>
+    <link rel="stylesheet" href="~/css/spin.css">
+    <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+    <script src="~/lib/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+    <script src="~/lib/bootstrap-datepicker/bootstrap-datepicker.es.min.js"></script>
+
+</head>
+<body style="font-size:13px;">
+    <div id="cover-spin"></div>
+    <span style="display:none;" id="clientId" value="@ViewBag.id">@ViewBag.id</span>
+    <div id="header" style="position:absolute;  left:0px; height:200px; right:0px;overflow:hidden;">
+        <div class="col-md-7" style="left:20px;margin-top:20px">
+            <h6 style="color:black; font-size:16px;"><strong>DETALLE CLIENTE </strong></h6>
+        </div>
+    </div>
+    <div id="content" style="position:absolute; top:70px; bottom:65px; left:0px; right:0px; overflow:auto; padding-left:20px; padding-right:20px">
+        <div class="col-md-12 col-lg-12 col-sm-12 align-content-sm-center align-content-center align-content-md-center align-content-lg-center">
+            <form>
+                <br />
+                <div id="loader"></div>
+                <div class="form-row">
+                    <div class="form-group col-sm-12">
+                        <label class="control-label">Nombres</label><span style="color:red">(*)</span>
+                        <input type="text" class="form-control" name="txtName" id="txtName" style="font-size: small;border-radius:5px" onkeyup="document.getElementById(this.id).value=document.getElementById(this.id).value.toUpperCase()">
+                        <span class="control-label" style="color:red;font-size:12px;display: none;" id="msg_campo_valido1">Campo inválido*</span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+
+                    <div class="form-group col-sm-12">
+                        <label class="control-label">Dirección</label><span style="color:red">(*)</span>
+                        <input type="text" class="form-control" name="txtHomeAddress" id="txtHomeAddress" style="font-size: small;border-radius:5px" onkeyup="document.getElementById(this.id).value=document.getElementById(this.id).value.toUpperCase()">
+                        <span class="control-label" style="color:red;font-size:12px;display: none;" id="msg_campo_valido2">Campo inválido*</span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-sm-12">
+                        <label class="control-label">Población</label><span style="color:red">(*)</span>
+
+                        <div class="row" style="margin-left:0px;">
+                            <div class="col-xs-4">
+                                <input type="text" class="form-control" name="txtPostalCode" id="txtPostalCode" style="font-size: small;border-radius:5px;width:170px;">
+                                <span class="control-label" style="color:red;font-size:12px;display: none;" id="msg_campo_valido3">Campo inválido*</span>
+                            </div>
+                            &nbsp;
+                            <div class="col-xs-12">
+                                <input type="text" class="form-control" name="txtTownName" id="txtTownName" style="font-size: small;border-radius:5px;width:640px;" onkeyup="document.getElementById(this.id).value=document.getElementById(this.id).value.toUpperCase()">
+                                <span class="control-label" style="color:red;font-size:12px;display: none;" id="msg_campo_valido4">Campo inválido*</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <br/>
+         
+        <div class="col-md-12 col-lg-12 col-sm-12 align-content-sm-center align-content-center align-content-md-center align-content-lg-center">
+            <h6 style="color:black; font-size:16px;"><strong>LISTA DE CONTACTOS </strong></h6>
+            
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="box box-orange-pro">
+                        <div class="box-body">
+                            <div id="tbl-report-customer-contact" style="height: 400px;">
+                                <table id="dtCustomersContact" class="table table-bordered table-condensed table-hover" style="border: 2px;border-color: #a9a7a7;width: 100%">
+                                    <thead style="font-size: 12px;background-color:#405467;color:#e1f0f1;">
+                                    </thead>
+                                    <tbody style="font-size: 13px;">
+                                    </tbody>
+                                </table>
+                            </div>
+                            <span class="control-label" style="display:none;" id="msgDataTable"><strong>No results found</strong></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </div>
+
+     
+    <div id="footer" style="position:absolute; bottom:16px; margin-left:75%;">
+        <div class="form-row">
+            <div class="col">
+                <button class="btn btn-primary" id="btnGrabar" onclick="updateCustomer();">
+                    <span style="color: #fff;">Grabar</span>
+                </button>
+            </div>
+
+            <div class="col-5">
+                <button class="btn btn-primary" id="btnClose" data-dismiss="modal" onclick="closePopup();">
+                    <span style="color: #fff;">Cerrar</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

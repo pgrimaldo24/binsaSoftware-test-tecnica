@@ -1,0 +1,12 @@
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\bin\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.deps.json
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\bin\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.dll
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\bin\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.pdb
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.AssemblyInfo.cs
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.dll
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\obj\Debug\net6.0\refint\BinsaSoftware.ClientWebApp.Domain.dll
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\obj\Debug\net6.0\BinsaSoftware.ClientWebApp.Domain.pdb
+C:\Users\Pierr Grimaldo\OneDrive\Escritorio\OECHSLE\binsa\BinsaSoftware.EjercicioTecnico\BinsaSoftware.ClientWebApp.Domain\obj\Debug\net6.0\ref\BinsaSoftware.ClientWebApp.Domain.dll

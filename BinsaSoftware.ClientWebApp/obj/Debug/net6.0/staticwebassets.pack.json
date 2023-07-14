@@ -1,0 +1,533 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BinsaSoftware.ClientWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BinsaSoftware.ClientWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\AdminLTE.css",
+      "PackagePath": "staticwebassets\\css\\AdminLTE.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\AdminLTE.min.css",
+      "PackagePath": "staticwebassets\\css\\AdminLTE.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\_all-skins.css",
+      "PackagePath": "staticwebassets\\css\\skins\\_all-skins.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\_all-skins.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\_all-skins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-black-light.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-black-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-black-light.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-black-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-black.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-black.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-black.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-black.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-blue-light.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-blue-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-blue-light.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-blue-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-blue.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-blue.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-blue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-green-light.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-green-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-green-light.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-green-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-green.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-green.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-green.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-purple-light.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-purple-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-purple-light.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-purple-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-purple.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-purple.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-purple.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-purple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-red-light.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-red-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-red-light.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-red-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-red.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-red.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-red.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-red.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-yellow-light.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-yellow-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-yellow-light.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-yellow-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-yellow.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\skins\\skin-yellow.min.css",
+      "PackagePath": "staticwebassets\\css\\skins\\skin-yellow.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\css\\spin.css",
+      "PackagePath": "staticwebassets\\css\\spin.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\img\\loading_2.gif",
+      "PackagePath": "staticwebassets\\img\\loading_2.gif"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\js\\Client\\Create\\create-customer.js",
+      "PackagePath": "staticwebassets\\js\\Client\\Create\\create-customer.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\js\\Client\\Delete\\delete-customer.js",
+      "PackagePath": "staticwebassets\\js\\Client\\Delete\\delete-customer.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\js\\Client\\List\\list-customer.js",
+      "PackagePath": "staticwebassets\\js\\Client\\List\\list-customer.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\js\\Client\\Update\\update-customer.js",
+      "PackagePath": "staticwebassets\\js\\Client\\Update\\update-customer.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\js\\CustomerContact\\Create\\create-customer-contact.js",
+      "PackagePath": "staticwebassets\\js\\CustomerContact\\Create\\create-customer-contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\blockui\\blockui.min.js",
+      "PackagePath": "staticwebassets\\lib\\blockui\\blockui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootbox\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox\\bootbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap-4.1.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-4.1.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap-4.1.0\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-4.1.0\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap-datepicker\\bootstrap-datepicker.es.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\bootstrap-datepicker.es.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap-datepicker\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap-toggle\\bootstrap-toggle.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-toggle\\bootstrap-toggle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap4material-1-4-2\\css\\fontastic.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4material-1-4-2\\css\\fontastic.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap4material-1-4-2\\css\\style.default.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4material-1-4-2\\css\\style.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap4material-1-4-2\\img\\bg2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4material-1-4-2\\img\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap4material-1-4-2\\js\\front.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4material-1-4-2\\js\\front.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\chartjs\\chart.min.js",
+      "PackagePath": "staticwebassets\\lib\\chartjs\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\chartjs\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\chartjs\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\datatables.net-bs\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatables.net-bs\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\datatables.net-bs\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables.net-bs\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\datatables.net-bs\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\datatables.net-bs\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\datatables.net-bs\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables.net-bs\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\datatables.net\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables.net\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\datatables.net\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables.net\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\fastclick\\fastclick.js",
+      "PackagePath": "staticwebassets\\lib\\fastclick\\fastclick.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\flip\\jquery.flip.min.js",
+      "PackagePath": "staticwebassets\\lib\\flip\\jquery.flip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\inputmask\\inputmask.js",
+      "PackagePath": "staticwebassets\\lib\\inputmask\\inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\inputmask\\inputmask.numeric.extensions.js",
+      "PackagePath": "staticwebassets\\lib\\inputmask\\inputmask.numeric.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\inputmask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\lib\\inputmask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-1.12.4\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-1.12.4\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery.cookie\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\lib\\jquery.cookie\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\moment\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment-with-locales.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\moment\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\parsley\\es.js",
+      "PackagePath": "staticwebassets\\lib\\parsley\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\parsley\\parsley.min.js",
+      "PackagePath": "staticwebassets\\lib\\parsley\\parsley.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\toastr\\toastr.js.map",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp\\wwwroot\\lib\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BinsaSoftware.ClientWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BinsaSoftware.ClientWebApp.props",
+      "PackagePath": "build\\BinsaSoftware.ClientWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BinsaSoftware.ClientWebApp.props",
+      "PackagePath": "buildMultiTargeting\\BinsaSoftware.ClientWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BinsaSoftware.ClientWebApp.props",
+      "PackagePath": "buildTransitive\\BinsaSoftware.ClientWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

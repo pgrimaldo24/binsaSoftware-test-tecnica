@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Infraestructure\\BinsaSoftware.ClientWebApp.Infraestructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Application\\BinsaSoftware.ClientWebApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Application\\BinsaSoftware.ClientWebApp.Application.csproj",
+        "projectName": "BinsaSoftware.ClientWebApp.Application",
+        "projectPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Application\\BinsaSoftware.ClientWebApp.Application.csproj",
+        "packagesPath": "C:\\Users\\Pierr Grimaldo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\NuGet.Config",
+          "C:\\Users\\Pierr Grimaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://eagleperu.pkgs.visualstudio.com/DefaultCollection/_packaging/Eagle.Release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Domain\\BinsaSoftware.ClientWebApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Domain\\BinsaSoftware.ClientWebApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.CrossCutting\\BinsaSoftware.ClientWebApp.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.CrossCutting\\BinsaSoftware.ClientWebApp.CrossCutting.csproj",
+        "projectName": "BinsaSoftware.ClientWebApp.CrossCutting",
+        "projectPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.CrossCutting\\BinsaSoftware.ClientWebApp.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Pierr Grimaldo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\NuGet.Config",
+          "C:\\Users\\Pierr Grimaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://eagleperu.pkgs.visualstudio.com/DefaultCollection/_packaging/Eagle.Release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Domain\\BinsaSoftware.ClientWebApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Domain\\BinsaSoftware.ClientWebApp.Domain.csproj",
+        "projectName": "BinsaSoftware.ClientWebApp.Domain",
+        "projectPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Domain\\BinsaSoftware.ClientWebApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pierr Grimaldo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\NuGet.Config",
+          "C:\\Users\\Pierr Grimaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://eagleperu.pkgs.visualstudio.com/DefaultCollection/_packaging/Eagle.Release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Infraestructure\\BinsaSoftware.ClientWebApp.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Infraestructure\\BinsaSoftware.ClientWebApp.Infraestructure.csproj",
+        "projectName": "BinsaSoftware.ClientWebApp.Infraestructure",
+        "projectPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Infraestructure\\BinsaSoftware.ClientWebApp.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Pierr Grimaldo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\NuGet.Config",
+          "C:\\Users\\Pierr Grimaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://eagleperu.pkgs.visualstudio.com/DefaultCollection/_packaging/Eagle.Release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Application\\BinsaSoftware.ClientWebApp.Application.csproj": {
+                "projectPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Application\\BinsaSoftware.ClientWebApp.Application.csproj"
+              },
+              "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.CrossCutting\\BinsaSoftware.ClientWebApp.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.CrossCutting\\BinsaSoftware.ClientWebApp.CrossCutting.csproj"
+              },
+              "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Domain\\BinsaSoftware.ClientWebApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Pierr Grimaldo\\OneDrive\\Escritorio\\OECHSLE\\binsa\\BinsaSoftware.EjercicioTecnico\\BinsaSoftware.ClientWebApp.Domain\\BinsaSoftware.ClientWebApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
